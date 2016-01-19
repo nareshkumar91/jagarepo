@@ -1,1 +1,3 @@
 hello master code
+hello branch1 code added a master 
+check the merging concept into branch to master
